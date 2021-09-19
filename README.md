@@ -18,5 +18,5 @@ For more information and updates, check out my website: [https://alexandermichel
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alexandermichels&count_private=true&show_icons=true&theme=midnight-purple" alt="Alexander's Github Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermichels&langs_count=8&layout=compact&hide=html" alt="Alexander's Github Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermichels&langs_count=8&layout=compact&hide=html&theme=midnight-purple" alt="Alexander's Github Top Langs">
 </p>
